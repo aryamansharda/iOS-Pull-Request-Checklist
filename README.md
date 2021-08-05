@@ -44,4 +44,4 @@
 * [ ] Did I remove any commented out code?
 * [ ] Did I remove all `TODO`, `@hack`, and placeholder code?
 * [ ] Did I remove all of the `print` statements I was using? Am I doing any unnecessary logging?
-* [ ] Did I link to the ticket in the PR?
+* [ ] Does my PR include testing instructions, a description, and a link to the ticket?
