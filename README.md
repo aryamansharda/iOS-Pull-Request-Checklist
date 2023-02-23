@@ -38,7 +38,7 @@
 ## **Creating A P**ull Request
 
 * [ ] Am I introducing any new warnings into the Xcode project?
-* [ ] Did I pull in `master` and resolve any merge conflicts before opening a pull request?
+* [ ] Did I pull in `main` and resolve any merge conflicts before opening a pull request?
 * [ ] Does linting pass?
 * [ ] Does my PR include screenshots and instructions on how to test these changes?
 * [ ] Did I remove any commented out code?
